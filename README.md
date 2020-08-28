@@ -1,4 +1,6 @@
 # SilentMecha Linux Game Server Manager
+[![GitHub license](https://img.shields.io/github/license/silent001/SilentMecha-Linux-Game-Server-Manager)](https://github.com/silent001/SilentMecha-Linux-Game-Server-Manager/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/release-early%20devolpment-red)](https://github.com/silent001/SilentMecha-Linux-Game-Server-Manager/)
 
 1. [What is SilentMecha-LGSM](#what-is-silentmecha-lgsm)
 1. [Features](#features)
